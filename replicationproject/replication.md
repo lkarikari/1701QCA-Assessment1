@@ -15,7 +15,52 @@
 
 (Insert URL to project)
 
-![Image](exactsame.PNG)
+![Image](exact same.PNG)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 2 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](conke.PNG)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 3 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](drumset.PNG)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 4 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](pringles.PNG)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 5 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](paper piano.PNG)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 6 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](cardboard.PNG)
 
 This project is related to mine because (insert reasons here).
 
