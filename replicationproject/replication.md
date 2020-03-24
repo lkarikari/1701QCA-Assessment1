@@ -15,7 +15,7 @@
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](exactsame.PNG)
 
 This project is related to mine because (insert reasons here).
 
