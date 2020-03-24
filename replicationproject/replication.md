@@ -15,7 +15,7 @@
 
 (Insert URL to project)
 
-![Image](exact same.PNG)
+![Image](exactsame.PNG)
 
 This project is related to mine because (insert reasons here).
 
@@ -51,7 +51,7 @@ This project is related to mine because (insert reasons here).
 
 (Insert URL to project)
 
-![Image](paper piano.PNG)
+![Image](paperpiano.PNG)
 
 This project is related to mine because (insert reasons here).
 
