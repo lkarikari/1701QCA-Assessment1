@@ -6,14 +6,14 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Say Hello to the BBC micro:bit ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](sayhello.jpg)
 
 (Insert a caption here)
 
@@ -23,14 +23,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using a Light Sensor & Analog Inputs ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](lightsensor.jpg)
 
 (Insert a caption here)
 
@@ -40,14 +40,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Dimming an LED Using a Potentiometer ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](dimmer.jpg)
 
 (Insert a caption here)
 
@@ -57,14 +57,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using a Transistor to Drive a Motor ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](transistor.jpg)
 
 (Insert a caption here)
 
@@ -74,14 +74,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Setting the Tone with a Piezo Buzzer ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](setthetone.jpg)
 
 (Insert a caption here)
 
