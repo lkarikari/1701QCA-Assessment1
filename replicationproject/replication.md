@@ -135,6 +135,8 @@ I decided to switch from fruit and vegetables to paper and foil for the sake of 
 
 ![Image](happysadkeyboard.HEIC)
 
+Videos of the keyboard in action have been uploaded with the link to this journal via the Learning@Griffith submission portal.
+
 ### Additional view ###
 
 The following images show a closer look at the setup of the device and the construction of the keys.
