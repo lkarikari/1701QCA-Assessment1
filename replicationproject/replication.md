@@ -103,11 +103,7 @@ This project is more basic than the previous ones, but I really like the concept
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](IMG_6643.HEIC)
-
 ![Image](coding1.PNG)
-
-![Image](coding2.PNG)
 
 ## Process documentation
 
@@ -119,7 +115,9 @@ This project is more basic than the previous ones, but I really like the concept
 
 One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
 
-![Image](missingimage.png)
+![Image](coding1.PNG)
+
+![Image](coding2.PNG)
 
 *Include screenshots of the code you have used.*
 
@@ -127,11 +125,12 @@ One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' v
 
 *Complete the following information.*
 
-### Project title ###
+### Happy / Sad Keyboard ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The Happy Sad Keyboard is a piano-like instrument with two keys. Each key has an icon on it indicating the mood of the person operating the instrument. If the person is happy, they press the key with the yellow smiley face icon and a smiley face will appear on the Micro:bit. Then thebuzzer on the breadboard will play "Don't Worry Be Happy" by Bobby McFerrin
+It is all pretty simple and not a l
 
 ### Showcase image ###
 
