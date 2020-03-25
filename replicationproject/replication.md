@@ -71,34 +71,16 @@ This project is more basic than the previous ones, but I really like the concept
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+Throughout my degree, I've learned that experience and ease of interaction are really important parts of design, as people decide whether or not something is worth their time based on these two things. If a device or a product is overly complicated and hard to use, people can get put off and not want to use it. This reading goes in-depth about this notion and shows how everyday interactions such as opening a door can be ruined with badly thought-out designs and therefore bad experiences. 
+This reading made me think of ways I could keep ease of interaction in mind and create a product that isn't complicated and is easy to understand and operate.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This reading brought a point across that I previously hadn't realised; that microinteractions, despite the name, are an extremely impactful aspect of design. The small, seemingly unimportant part of a product, such as the silent mode switch on a phone (as talked about in the reading) can be the downfall of an otherwise exceptional device. It makes me wonder how in-depth I should be looking into my future and present projects and what kinds of microinteractions may apply to my designs. There are so many things one should be considering in their design processes as there are so many things that can affect the way we experience, and interact with our products.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+Before I read this reading I hadn't really thought too deeply about how much we rely on technology in this day, and how future generations won't know what it was like before the digital age. There is so much technology incorporated into our everyday lives and we are so used to it at this point that we don't take notice of its presence sometimes. The reading also shed some light on the versatility of technology design. I am aware that the platform for emerging technology is vast and applicable to a lot of things, but I realised that there are so many things in my life that it could be applied to. The way we communicate and travel are two very common aspects of our lives that technology can be designed and built for, but there are countless other things that this applies to as well. Almost any idea can be made into something physical, and for the most part they have. We have access to millions of products, big and small, that are designed for the most specific of situations. This reading serves as encouragement for designers to ideate and explore any avenue they want, as anything, no matter how specific, niche or broad, is able to be put into physical form.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
