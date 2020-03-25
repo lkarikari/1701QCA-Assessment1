@@ -110,10 +110,25 @@ This project is more basic than the previous ones, but I really like the concept
 At first I wasn't sure what direction I wanted to go in for the assignment but after looking for inspiration on the web I figured it out eventually that I wanted to make a keyboard that plays an entire song on each key that corresponds with a mood or a situation. I started testing the project with some oranges and experimented with different tones and melodies, starting with the Simpsons theme song. 
 
 
-
 ![Image](taters.JPG)
 
 After a successful test run with the oranges I decided to up the anti and add more keys. We didn't have enough oranges in the house so I switched to potatoes. Unfortunately the keyboard stopped working after that, as I had changed the code from the original. One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
+
+![Image](hskp3.HEIC)
+
+Since I could only make the device operate with 2 keys I decided to switch out the potatoes and make a little keyboard myself. I started with a strip of aluminium foil to test if i could close the circuit with it. Since that worked, I made the keys out of some paper and put the foil underneath.
+
+![Image](hskp2.HEIC)
+
+The paper underneath the keys ensures that they aren't always in contact with the GND pin, but can be pressed down onto the foil strip, which closes the circuit and then triggers the songs to play.
+
+![Image](hskp.HEIC)
+
+The pins are all secured to the foil and taped to their keys or the base.
+
+![Image](hskp4.HEIC)
+
+Each key has a little face icon that corresponds with its respective song.
 
 ![Image](coding1.PNG)
 
@@ -133,23 +148,16 @@ Happy Sad Keyboard is a piano-like instrument with two keys. Each key has an ico
 The keyboard's programming is almost identical to the original Banana Keyboard one, but I've included the use of the LEDs and Buttons A and B to display the titles of each song. It is all pretty simple and easy to operate, however the complexity lies in the making of the songs on the Micro:bit editor. I had to individually insert every tone and rest for both songs, which was a time-consuming process. However, it was worth it as they both ended up sounding pretty good.
 I decided to switch from fruit and vegetables to paper and foil for the sake of practicality and tidyness. Although it isn't very developed I feel like the device looks (somewhat) more sophisticated when it's been constructed neatly, rather than having pins stuck into the side of a potato.
 
+
 ### Showcase image ###
 
 ![Image](happysadkeyboard.HEIC)
-
-![Image](hsk2.HEIC)
 
 ### Additional view ###
 
 The following images show a closer look at the setup of the device and the construction of the keys.
 
-![Image](hskp3.HEIC)
-
-![Image](hskp2.HEIC)
-
-![Image](hskp.HEIC)
-
-![Image](hskp4.HEIC)
+![Image](hsk2.HEIC)
 
 ### Reflection ###
 
