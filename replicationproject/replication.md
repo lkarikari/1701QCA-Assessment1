@@ -115,6 +115,8 @@ This project is more basic than the previous ones, but I really like the concept
 
 One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
 
+![Image](taters.JPG)
+
 ![Image](coding1.PNG)
 
 ![Image](coding2.PNG)
@@ -136,13 +138,19 @@ It is all pretty simple and not a l
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](happysadkeyboard.HEIC)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](hskp3.HEIC)
+
+![Image](hskp2.HEIC)
+
+![Image](hskp.HEIC)
+
+![Image](hskp4.HEIC)
 
 ### Reflection ###
 
