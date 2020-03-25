@@ -140,6 +140,8 @@ It is all pretty simple and not a l
 
 ![Image](happysadkeyboard.HEIC)
 
+![Image](hsk2.HEIC)
+
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
