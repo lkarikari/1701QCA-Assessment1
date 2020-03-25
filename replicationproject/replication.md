@@ -5,55 +5,55 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Banana Keyboard
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-Banana
+Arduino Banana Piano
 
-(Insert URL to project)
+[https://www.youtube.com/watch?v=Lbkw0LFVZDI](https://www.youtube.com/watch?v=Lbkw0LFVZDI)
 
 ![Image](exactsame.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is very similar to the one on the Micro:bit website as it uses the same basic principles, but it is made with Arduino software. It also has a lot more keys than the basic Micro:bit one and each key plays an individual tone, rather than a melody or a series of tones. 
 
 ### Related project 2 ###
-(Insert name of project)
+Coke Piano
 
-(Insert URL to project)
+[https://www.youtube.com/watch?v=Ttm62RBdOuo](https://www.youtube.com/watch?v=Ttm62RBdOuo)
 
 ![Image](conke.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is quite interesting because the person who created it has been able to make over 15 keys using coke cans, and linked the setup to their computer to play a wide range of sounds and loops. I also didn't see anywhere in the video that he was touching something connected to GND, so the programming might be very different and a lot more complex.
 
 ### Related project 3 ###
-(Insert name of project)
+DIY Playable Drum Set
 
-(Insert URL to project)
+[https://www.youtube.com/watch?v=UVISquEcuzg](https://www.youtube.com/watch?v=UVISquEcuzg)
 
 ![Image](drumset.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the same pin press methods as the keyboard. The only difference is that the keys have been replaced with objects to simulate a drum kit and once pressed they produce a different type of sound.
 
 ### Related project 4 ###
-(Insert name of project)
+Pringles Can Drum Kit
 
-(Insert URL to project)
+[https://www.youtube.com/watch?v=_TvVlkHtvJc](https://www.youtube.com/watch?v=_TvVlkHtvJc)
 
 ![Image](pringles.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to the previous drum set project as it also has the same pin press methods, although this person decided to make the drum set out of Pringles cans.
 
 ### Related project 5 ###
-(Insert name of project)
+Paper Piano with Arduino
 
-(Insert URL to project)
+[https://www.youtube.com/watch?v=_4cIv6qLaM8](https://www.youtube.com/watch?v=_4cIv6qLaM8)
 
 ![Image](paperpiano.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is a more practical version of the banana keyboard as it is made out of paper and it takes up a little less space. Similar programming to the coke can keyboard is used in this one as the whole kit is connected to the creator's laptop and he's able to play a wide range of sounds.
 
 ### Related project 6 ###
 Micro:bit Keyboard Tutorial
@@ -62,7 +62,7 @@ Micro:bit Keyboard Tutorial
 
 ![Image](cardboard.PNG)
 
-I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
+This project is more basic than the previous ones, but I really like the concept and the outcome, given how simple the programming is. It operates like a normal piano and has a very familiar design. It  also offers a lot of freedom as to how you'd want to design the physical outcome, and what tones or tone series you'd want each key to play.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -112,6 +112,8 @@ I tried to recreate this project so I could use its coding and layout as a start
 *This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+
+One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
 
 ![Image](missingimage.png)
 
