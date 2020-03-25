@@ -103,7 +103,7 @@ This project is more basic than the previous ones, but I really like the concept
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](coding1.PNG)
+![Image](IMG_6643.HEIC)
 
 ## Process documentation
 
@@ -113,30 +113,31 @@ This project is more basic than the previous ones, but I really like the concept
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
+
 
 ![Image](taters.JPG)
 
+After a successful test run with the oranges I decided to up the anti and add more keys. We didn't have enough oranges in the house so I switched to potatoes. Unfortunately the keyboard stopped working after that, as I had changed the code from the original. One project that I drew inspiration from was the 'Micro:bit Keyboard Tutorial' video (Related Project 6). I tried to recreate this project so I could use its coding and layout as a starting point for my replication project. I followed all the instructions and made sure my codes were exactly the same as in the video. However, every time I downloaded it to the micro:bit, the piano would never work. I tried countless times with potatoes, then with foil, but it only ever worked with no more than 2 keys. I still don't 100% understand what wasn't working, but I could only use pins 0, 1 and 2 I couldn't do anything with the other pins. It would have made the project a lot more interesting if I could have made more than 2 working keys.
+
 ![Image](coding1.PNG)
+
+I ended up reverting to the original code and just added other elements like the use of the buttons and the LED display. Making the songs 
 
 ![Image](coding2.PNG)
 
-*Include screenshots of the code you have used.*
+
 
 ## Project outcome ##
-
-*Complete the following information.*
 
 ### Happy / Sad Keyboard ###
 
 ### Project description ###
 
-The Happy Sad Keyboard is a piano-like instrument with two keys. Each key has an icon on it indicating the mood of the person operating the instrument. If the person is happy, they press the key with the yellow smiley face icon and a smiley face will appear on the Micro:bit. Then thebuzzer on the breadboard will play "Don't Worry Be Happy" by Bobby McFerrin
-It is all pretty simple and not a l
+Happy Sad Keyboard is a piano-like instrument with two keys. Each key has an icon on it indicating the mood of the person operating the instrument. If the person is happy, they press the key with the yellow smiley face icon and a smiley face will appear on the Micro:bit. Then the buzzer on the breadboard will play "Don't Worry Be Happy" by Bobby McFerrin. The same process occurs when the other key is pressed, but instead a sad face appears on the LEDs and the buzzer plays "Hurt" by Nine Inch Nails.
+The keyboard's programming is almost identical to the original Banana Keyboard one, but I've included the use of the LEDs and Buttons A and B to display the titles of each song. It is all pretty simple and easy to operate, however the complexity lies in the making of the songs on the Micro:bit editor. I had to individually insert every tone and rest for both songs, which was a time-consuming process. However, it was worth it as they both ended up sounding pretty good.
+I decided to switch from fruit and vegetables to paper and foil for the sake of practicality and tidyness. Although it isn't very developed I feel like the device looks (somewhat) more sophisticated when it's been constructed neatly, rather than having pins stuck into the side of a potato.
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](happysadkeyboard.HEIC)
 
@@ -144,7 +145,7 @@ It is all pretty simple and not a l
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+The following images show a closer look at the setup of the device and the construction of the keys.
 
 ![Image](hskp3.HEIC)
 
@@ -156,13 +157,8 @@ It is all pretty simple and not a l
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+I'm somewhat happy with how the device turned out, however I was quite disappointed that I couldn't figure out how to make more keys with the other pins. I tried multiple methods from tutorials on YouTube to try to make it work, but I could only ever get a tone to play through pins 1 and 2. Because of this setback, I wanted to make the keyboard more interesting by making each key play a song rather than a single tone or a short series of tones. The outcome is fully functional and the songs ended up sounding pretty good, which I am very happy with since it took a long time to figure out the individual tones.
 
+Certain techniques used in class and in the Inventor's Kit booklet were useful and I could get basic programming to work on the Micro:bit, but as soon as I tried a method from on the web, for some reason none of the keys pressed could create a tone. It was pretty interesting to see that I could make a key out of almost any fruit or vegetable and even candy. 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+Once I figure out how to make more pins work, I can expand the project and make a functioning keyboard with a lot more keys. I can then experiment with different tones and maybe using a different speaker to make it interesting and engaging.
