@@ -121,11 +121,11 @@ After a successful test run with the oranges I decided to up the anti and add mo
 
 ![Image](coding1.PNG)
 
-I ended up reverting to the original code and just added other elements like the use of the buttons and the LED display. Making the songs 
+I ended up reverting to the original code and just added other elements like the use of the buttons and the LED display. Making the songs wasn't very hard, but it took a long time to finish.
 
 ![Image](coding2.PNG)
 
-
+Here's a bit more of the code. As you can see, there are a lot of tones I had to make.
 
 ## Project outcome ##
 
