@@ -105,9 +105,9 @@ This project is more basic than the previous ones, but I really like the concept
 
 ![Image](IMG_6643.HEIC)
 
-![Image](coding 1.PNG)
+![Image](coding1.PNG)
 
-![Image](coding 2.PNG)
+![Image](coding2.PNG)
 
 ## Process documentation
 
